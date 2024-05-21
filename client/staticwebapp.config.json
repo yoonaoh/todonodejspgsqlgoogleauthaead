@@ -25,6 +25,9 @@
     {
       "route": "/login",
       "rewrite": "/.auth/login/google"
+    },
+    {
+      "route": "/testroute"
     }
   ],
   "auth": {
