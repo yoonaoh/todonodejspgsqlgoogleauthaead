@@ -25,10 +25,6 @@
     {
       "route": "/login",
       "rewrite": "/.auth/login/google"
-    },
-    {
-      "route": "/logout",
-      "redirect": "/.auth/logout"
     }
   ],
   "auth": {
